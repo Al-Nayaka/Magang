@@ -1,0 +1,57 @@
+body
+{
+    background-color: rgb(5, 12, 32);
+    color : rgb(235, 234, 205);
+    font-family: cursive;
+    font-size: small;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+strong
+{
+    color:rgb(241, 244, 255);
+}
+
+.header h1
+{
+    background-color: rgb(17, 1, 75);
+    color: darkblue
+}
+
+.header p
+{
+    color: rgb(184,184,240);
+}
+
+
+.article h2
+{
+    color: blue;
+}
+
+.article h3
+{
+    color: rgb(115, 158, 214);
+}
+.article p{
+    color:rgb(184, 184, 240);
+}
+
+.footer h4
+{
+    color : rgb(70,120,255);
+}
+
+.centerImg 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centerText
+{
+    text-align: center;
+}
