@@ -20,11 +20,6 @@ strong
 .contents
 {
     background-color: rgb(17,1,75);
-    /* padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 5px;
-    padding-bottom: 7px;
-    border-radius: 50px; */
     padding: 5px 50px 7px 50px;
     border: solid 5px white;
     margin: 20px;
@@ -50,24 +45,6 @@ img
     border-radius: 20px;
     border: solid 2px wheat;
 }
-/*
-.article h2
-{
-    color: blue;
-}
-
-.article h3
-{
-    color: rgb(115, 158, 214);
-}
-.article p{
-    color:rgb(184, 184, 240);
-}
-
-.footer h4
-{
-    color : rgb(70,120,255);
-} */
 
 footer 
 {
